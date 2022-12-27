@@ -1,0 +1,6 @@
+smpl\_debug.version
+===================
+
+.. currentmodule:: smpl_debug
+
+.. autofunction:: version

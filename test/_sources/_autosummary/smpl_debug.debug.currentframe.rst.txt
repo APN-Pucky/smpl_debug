@@ -1,0 +1,6 @@
+smpl\_debug.debug.currentframe
+==============================
+
+.. currentmodule:: smpl_debug.debug
+
+.. autofunction:: currentframe

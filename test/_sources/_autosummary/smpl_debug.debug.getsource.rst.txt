@@ -1,0 +1,6 @@
+smpl\_debug.debug.getsource
+===========================
+
+.. currentmodule:: smpl_debug.debug
+
+.. autofunction:: getsource

@@ -12,23 +12,6 @@
    :parser: myst_parser.sphinx_
 
 
-.. toctree::
-   :glob:
-   :hidden:
-   :caption: Versions:
-   :maxdepth: 3
-
-   Stable <https://apn-pucky.github.io/smpl_debug/>
-   Dev <https://apn-pucky.github.io/smpl_debug/test/>
-
-.. toctree::
-   :glob:
-   :hidden:
-   :caption: Links:
-   :maxdepth: 3
-
-   GitHub <https://github.com/APN-Pucky/smpl_debug>
- 
 
 .. toctree::
    :glob:
@@ -55,6 +38,25 @@
 
    performance/*
 
+
+.. toctree::
+   :glob:
+   :hidden:
+   :caption: Versions:
+   :maxdepth: 3
+
+   RTD <https://smpl_debug.readthedocs.io/en/stable/>
+   Stable <https://apn-pucky.github.io/smpl_debug/>
+   Dev <https://apn-pucky.github.io/smpl_debug/test/>
+
+.. toctree::
+   :glob:
+   :hidden:
+   :caption: Links:
+   :maxdepth: 3
+
+   GitHub <https://github.com/APN-Pucky/smpl_debug>
+ 
 
 
 Indices and tables

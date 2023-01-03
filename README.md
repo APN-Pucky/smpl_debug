@@ -3,11 +3,7 @@ Simplified utilities in python.
 
 [![PyPI version][pypi image]][pypi link] [![PyPI version][pypi versions]][pypi link]  ![downloads](https://img.shields.io/pypi/dm/smpl_debug.svg)
 
-| [Stable][doc stable]        | [Test][doc test]           |
-| ------------- |:-------------:|
-| [![workflow][a s image]][a s link]   | [![test][a t image]][a t link]     |
-| [![Coverage Status][c s i]][c s l]   | [![Coverage Status][c t i]][c t l] |
-| [![Documentation][rtd s i]][rtd s l] | [![Documentation][rtd t i]][rtd t l]|
+[![test][a t image]][a t link]   [![Coverage Status][c t i]][c t l] [![Documentation][rtd t i]][rtd t l]|
 
 ## Documentation
 -   <https://apn-pucky.github.io/smpl_debug/index.html>
